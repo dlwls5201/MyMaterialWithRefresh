@@ -49,6 +49,7 @@
                 android:layout_height="48dp"
                 app:layout_collapseMode="pin"/>
 
+            <!-- 툴바 하단에 버튼이 3개 있는 뷰를 추가해 줍니다. -->
             <LinearLayout
                 android:background="#ffff00"
                 android:layout_width="match_parent"
